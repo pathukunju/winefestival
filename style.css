@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ul,ol{
+    list-style: none;
+}
+h1{
+    color: brown;
+    text-align: center;
+    background-color: antiquewhite;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+#wine{
+    color: brown;
+    background-color: antiquewhite;
+    
+}
+table{
+    margin: auto;
+}
+table, th, td{
+    border:solid brown 2px;
+    border-collapse: collapse;
+    padding: 20px;
+    
+
+}
+td{
+    text-align: center;
+    color: antiquewhite;
+}
+
+
+th{
+    color:antiquewhite;
+}
+    
+
+body{
+  background-color:grey; 
+}
+footer{
+    text-align: center;
+    margin: 40px;
+    word-spacing: 20px;
+
+}
+footer ul{
+    display: flex;
+    justify-content: center;
+}
+footer ul li{
+    margin-right: 10px ;
+    
+}
